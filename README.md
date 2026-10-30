@@ -1,2 +1,2 @@
-# -ninots-privacy
+# uninots-privacy
 üninots gizlilik politikası
