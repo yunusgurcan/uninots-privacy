@@ -5,8 +5,6 @@ Bu Şartlar ve Koşullar, **Mert Labs** ("Hizmet Sağlayıcı") tarafından işl
 
 Uygulamayı indirerek, erişerek veya kullanarak bu Şartları kabul etmiş olursunuz.
 
-[Gizlilik Politikası Sayfasına Git](gizlilik-politikasi.md)
-
 ---
 
 ## 1. Uygulamayı Kullanma Lisansı
