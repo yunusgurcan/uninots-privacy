@@ -1,3 +1,4 @@
+[Gizlilik Politikası Sayfasına Dön](../)
 # Şartlar ve Koşullar
 
 Bu Şartlar ve Koşullar, **Mert Labs** ("Hizmet Sağlayıcı") tarafından işletilen ilgili tüm hizmetlerle birlikte mobil cihazlar ve web tarayıcıları için **Üninots** uygulaması için geçerlidir (topluca "Uygulama").
