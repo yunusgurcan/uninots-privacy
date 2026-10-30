@@ -1,8 +1,7 @@
+[Şartlar ve Koşullar Sayfasına Git](./sartlar/)
 # Gizlilik Politikası
 
 Bu Gizlilik Politikası, **Mert Labs** ("Hizmet Sağlayıcı") tarafından işletilen ilgili tüm hizmetlerle birlikte mobil cihazlar ve web tarayıcıları için **Üninots** uygulaması için geçerlidir (topluca "Uygulama").
-
-[Şartlar ve Koşullar Sayfasına Git](sartlar-ve-kosullar.md)
 
 ---
 
